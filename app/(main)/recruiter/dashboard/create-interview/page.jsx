@@ -5,7 +5,7 @@ import { ArrowLeft, Coins } from "lucide-react";
 import { useRouter } from "next/navigation";
 import { Progress } from "@/components/ui/progress";
 import FormContainer from "./_components/FormContainer";
-import QuestionList from "./_components/Questionlist";
+import QuestionList from "./_components/QuestionList";
 import { toast } from "sonner";
 import InterviewLink from "./_components/InterviewLink";
 import { useUser } from "@/app/provider";
