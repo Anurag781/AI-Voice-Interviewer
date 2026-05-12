@@ -2,7 +2,7 @@
 import React from 'react';
 import WelcomeContainer from './_components/WelcomeContainer';
 import CreateOptions from './_components/CreateOptions';
-import LatestinterviewsList from './_components/LatestinterviewsList';
+import LatestInterviewsList from './_components/LatestInterviewsList';
 import CreditsDisplay from './_components/CreditsDisplay';
 
 function Dashboard() {
@@ -14,7 +14,7 @@ function Dashboard() {
       <h2 className='my-3 font-bold text-2xl'>Dashboard</h2>
       <CreditsDisplay />
       <CreateOptions />
-      <LatestinterviewsList />
+      <LatestInterviewsList />
     </div>
   );
 }
