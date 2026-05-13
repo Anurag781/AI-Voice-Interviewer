@@ -32,7 +32,7 @@ export function AppSidebar() {
         <div className="absolute inset-0 bg-gradient-to-b from-blue-50/60 to-transparent pointer-events-none" />
 
         <Image
-          src="/Logo.png"
+          src="/logo.png"
           alt="Logo"
           width={160}
           height={160}

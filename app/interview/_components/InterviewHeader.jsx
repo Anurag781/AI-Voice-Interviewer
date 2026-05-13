@@ -25,7 +25,7 @@ function InterviewHeader() {
       >
         <div className="flex-shrink-0">
           <Image
-            src="/Logo.png"
+            src="/logo.png"
             alt="Logo"
             width={145}
             height={48}
