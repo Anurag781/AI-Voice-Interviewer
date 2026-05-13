@@ -170,7 +170,7 @@ function Interview() {
             />
 
             <Image
-              src="/Logo.png"
+              src="/logo.png"
               alt="Logo"
               fill
               className="object-contain p-0"
