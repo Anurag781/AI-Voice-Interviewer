@@ -93,7 +93,7 @@ AI-powered recruitment platform that automates candidate screening through real-
 ## 👨‍🎓 Candidate Dashboard
 
 <p align="center">
-  <img width="1743" height="867" alt="Admin Dash" src="https://github.com/user-attachments/assets/cfa2ef7f-bf1a-4c28-81a9-e499a24cee3f" />
+  <img width="1835" height="884" alt="candidate" src="https://github.com/user-attachments/assets/b9d776f8-ef1f-4c88-8185-983312d6e8e7" />
 </p>
 
 ---
